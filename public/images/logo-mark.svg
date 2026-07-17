@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rotterdam Shore Excursion">
+  <rect width="64" height="64" rx="8" fill="#0B2A3D"/>
+  <path d="M8 40 L32 14 L56 40" fill="none" stroke="#7EB6D4" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M16 40 L32 24 L48 40" fill="none" stroke="#C45C26" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="14" y="40" width="36" height="8" fill="#E8EEF2"/>
+</svg>

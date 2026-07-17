@@ -1,0 +1,30 @@
+# Path aliases → canonical routes (Workers Static Assets: relative URLs only).
+# Host-level www/http → apex redirects: Cloudflare Redirect Rules + Always Use HTTPS.
+# Do not add absolute https:// host rules here.
+
+/cruise-port-guide /rotterdam-cruise-port-guide/ 301
+/cruise-port-guide/ /rotterdam-cruise-port-guide/ 301
+/ship-schedules/rotterdam /rotterdam-cruise-schedule/ 301
+/ship-schedules/rotterdam/ /rotterdam-cruise-schedule/ 301
+/independent-rotterdam /can-you-walk-from-rotterdam-cruise-port/ 301
+/independent-rotterdam/ /can-you-walk-from-rotterdam-cruise-port/ 301
+/one-day-in-rotterdam /one-day-in-rotterdam-from-a-cruise/ 301
+/one-day-in-rotterdam/ /one-day-in-rotterdam-from-a-cruise/ 301
+
+# Legacy Rhodes scaffold paths
+/rhodes-cruise-port-guide /rotterdam-cruise-port-guide/ 301
+/rhodes-cruise-port-guide/ /rotterdam-cruise-port-guide/ 301
+/rhodes-cruise-port /rotterdam-cruise-port/ 301
+/rhodes-cruise-port/ /rotterdam-cruise-port/ 301
+/rhodes-cruise-schedule /rotterdam-cruise-schedule/ 301
+/rhodes-cruise-schedule/ /rotterdam-cruise-schedule/ 301
+/rhodes-signature-experience /rotterdam-signature-experience/ 301
+/rhodes-signature-experience/ /rotterdam-signature-experience/ 301
+/best-rhodes-shore-excursions /best-rotterdam-shore-excursions/ 301
+/best-rhodes-shore-excursions/ /best-rotterdam-shore-excursions/ 301
+/private-rhodes-shore-excursions /private-rotterdam-shore-excursions/ 301
+/private-rhodes-shore-excursions/ /private-rotterdam-shore-excursions/ 301
+/can-you-walk-from-rhodes-cruise-port /can-you-walk-from-rotterdam-cruise-port/ 301
+/can-you-walk-from-rhodes-cruise-port/ /can-you-walk-from-rotterdam-cruise-port/ 301
+/getting-around-rhodes-from-the-cruise-port /getting-around-rotterdam-from-the-cruise-port/ 301
+/getting-around-rhodes-from-the-cruise-port/ /getting-around-rotterdam-from-the-cruise-port/ 301

@@ -1,0 +1,610 @@
+[
+  {
+    "date": "2026-07-22",
+    "ship": "Celebrity Apex",
+    "cruiseLine": "Celebrity",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-07-25",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-07-26",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-07-28",
+    "ship": "Disney Dream",
+    "cruiseLine": "Disney",
+    "arrival": "10:30",
+    "departure": "19:30",
+    "timeInPort": "9h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-07-30",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "23:00",
+    "timeInPort": "15h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-08-02",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-08-04",
+    "ship": "Zuiderdam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "16:00",
+    "timeInPort": "9h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-08-09",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-08-13",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "timeInPort": "14h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-08-15",
+    "ship": "Disney Dream",
+    "cruiseLine": "Disney",
+    "arrival": "10:30",
+    "departure": "21:30",
+    "timeInPort": "11h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-08-16",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-08-22",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-08-27",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "timeInPort": "14h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-08-29",
+    "ship": "Liberty of the Seas",
+    "cruiseLine": "Royal Caribbean",
+    "arrival": "11:00",
+    "departure": "23:00",
+    "timeInPort": "12h",
+    "terminal": "Cruise Terminal Rotterdam",
+    "notes": "Maiden call"
+  },
+  {
+    "date": "2026-08-30",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-03",
+    "ship": "Seven Seas Voyager",
+    "cruiseLine": "Regent Seven Seas",
+    "arrival": "07:00",
+    "departure": "16:00",
+    "timeInPort": "9h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-10",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "timeInPort": "14h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-11",
+    "ship": "Mein Schiff 3",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-12",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "02:00",
+    "timeInPort": "19h",
+    "terminal": "Cruise Terminal Rotterdam",
+    "notes": "Overnight"
+  },
+  {
+    "date": "2026-09-13",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-19",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-20",
+    "ship": "Mein Schiff 2",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "18:00",
+    "timeInPort": "11h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-24",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "timeInPort": "14h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-27",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-28",
+    "ship": "Norwegian Sky",
+    "cruiseLine": "Norwegian",
+    "arrival": "14:00",
+    "departure": "20:00",
+    "timeInPort": "6h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-09-29",
+    "ship": "Sky Princess",
+    "cruiseLine": "Princess",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "timeInPort": "13h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-02",
+    "ship": "AIDAprima",
+    "cruiseLine": "AIDA",
+    "arrival": "17:00",
+    "departure": "23:00",
+    "timeInPort": "6h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-03",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-04",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-07",
+    "ship": "MSC Magnifica",
+    "cruiseLine": "MSC",
+    "arrival": "11:00",
+    "departure": "20:00",
+    "timeInPort": "9h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-08",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "timeInPort": "14h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-11",
+    "ship": "Queen Anne",
+    "cruiseLine": "Cunard",
+    "arrival": "07:00",
+    "departure": "18:00",
+    "timeInPort": "11h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-12",
+    "ship": "AIDAprima",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "timeInPort": "14h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-14",
+    "ship": "Britannia",
+    "cruiseLine": "P&O Cruises",
+    "arrival": "07:00",
+    "departure": "12:00",
+    "timeInPort": "5h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-17",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-20",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-21",
+    "ship": "MSC Virtuosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "19:00",
+    "timeInPort": "12h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-22",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "timeInPort": "14h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-23",
+    "ship": "Arcadia",
+    "cruiseLine": "P&O Cruises",
+    "arrival": "07:00",
+    "departure": "19:00",
+    "timeInPort": "12h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-28",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-10-30",
+    "ship": "Mein Schiff Relax",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "18:00",
+    "timeInPort": "11h",
+    "terminal": "Cruise Terminal Rotterdam",
+    "notes": "Maiden call"
+  },
+  {
+    "date": "2026-10-31",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-02",
+    "ship": "Sky Princess",
+    "cruiseLine": "Princess",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "timeInPort": "11h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-03",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "timeInPort": "14h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-04",
+    "ship": "Iona",
+    "cruiseLine": "P&O Cruises",
+    "arrival": "06:00",
+    "departure": "18:00",
+    "timeInPort": "12h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-07",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-08",
+    "ship": "Queen Mary 2",
+    "cruiseLine": "Cunard",
+    "arrival": "06:00",
+    "departure": "06:00",
+    "timeInPort": "24h",
+    "terminal": "Cruise Terminal Rotterdam",
+    "notes": "Overnight"
+  },
+  {
+    "date": "2026-11-11",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-18",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-19",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "timeInPort": "13h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-21",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-25",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-27",
+    "ship": "Queen Anne",
+    "cruiseLine": "Cunard",
+    "arrival": "09:00",
+    "departure": "12:00",
+    "timeInPort": "3h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-11-30",
+    "ship": "Ambition",
+    "cruiseLine": "Ambassador",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-01",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-03",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "timeInPort": "13h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-05",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-08",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-09",
+    "ship": "Queen Mary 2",
+    "cruiseLine": "Cunard",
+    "arrival": "07:00",
+    "departure": "23:55",
+    "timeInPort": "16h 55m",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-12",
+    "ship": "Aurora",
+    "cruiseLine": "P&O Cruises",
+    "arrival": "15:00",
+    "departure": "19:00",
+    "timeInPort": "4h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-15",
+    "ship": "Queen Anne",
+    "cruiseLine": "Cunard",
+    "arrival": "09:00",
+    "departure": "17:00",
+    "timeInPort": "8h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-17",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "timeInPort": "13h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-20",
+    "ship": "Ambition",
+    "cruiseLine": "Ambassador",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-21",
+    "ship": "Mein Schiff Flow",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "18:00",
+    "timeInPort": "11h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-23",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-29",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "timeInPort": "10h",
+    "terminal": "Cruise Terminal Rotterdam"
+  },
+  {
+    "date": "2026-12-31",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "06:00",
+    "timeInPort": "22h",
+    "terminal": "Cruise Terminal Rotterdam",
+    "notes": "Overnight"
+  }
+]
