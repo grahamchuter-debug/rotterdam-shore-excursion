@@ -1,0 +1,430 @@
+{
+  "port": "rotterdam",
+  "year": 2028,
+  "wave": "wave-2",
+  "filterDecision": "HOLD",
+  "filterReason": "validated 1 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+  "total": 46,
+  "validatedCount": 0,
+  "path": "HOLD",
+  "calls": [
+    {
+      "date": "2028-01-02",
+      "ship": "Nieuw Statendam",
+      "cruiseLine": "Holland America Line",
+      "arrival": "07:00",
+      "departure": "15:00",
+      "timeInPort": "8h",
+      "callType": "Port of call",
+      "notes": "departure only"
+    },
+    {
+      "date": "2028-01-05",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-06",
+      "ship": "Queen Anne",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "overnight/next-day timing"
+    },
+    {
+      "date": "2028-01-12",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-13",
+      "ship": "AIDAnova",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "21:00",
+      "timeInPort": "13h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-27",
+      "ship": "AIDAnova",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "21:00",
+      "timeInPort": "13h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-09",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-10",
+      "ship": "AIDAnova",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "21:00",
+      "timeInPort": "13h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-16",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-23",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-24",
+      "ship": "AIDAnova",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "21:00",
+      "timeInPort": "13h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-01",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-08",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-09",
+      "ship": "AIDAnova",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "21:00",
+      "timeInPort": "13h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-15",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-22",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-23",
+      "ship": "AIDAnova",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "21:00",
+      "timeInPort": "13h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-28",
+      "ship": "Queen Mary 2",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-29",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-05",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-06",
+      "ship": "AIDAnova",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "21:00",
+      "timeInPort": "13h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-12",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-19",
+      "ship": "MSC Preziosa",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-21",
+      "ship": "Mein Schiff 2",
+      "cruiseLine": "TUI Cruises",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-31",
+      "ship": "Arcadia",
+      "cruiseLine": "P & O Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-15",
+      "ship": "AIDAperla",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-13",
+      "ship": "AIDAperla",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-21",
+      "ship": "MSC Meraviglia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "07:00",
+      "departure": "15:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-27",
+      "ship": "AIDAperla",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-03",
+      "ship": "Ventura",
+      "cruiseLine": "P & O Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-10",
+      "ship": "AIDAperla",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-24",
+      "ship": "AIDAperla",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-30",
+      "ship": "Britannia",
+      "cruiseLine": "P & O Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "overnight/next-day timing"
+    },
+    {
+      "date": "2028-09-07",
+      "ship": "AIDAperla",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-21",
+      "ship": "AIDAperla",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-23",
+      "ship": "Arcadia",
+      "cruiseLine": "P & O Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-11",
+      "ship": "AIDAprima",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-13",
+      "ship": "Majestic Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "21:00",
+      "timeInPort": "13h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-19",
+      "ship": "AIDAperla",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-21",
+      "ship": "Ambience",
+      "cruiseLine": "Ambassador Cruise Line",
+      "arrival": "08:00",
+      "departure": "17:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-25",
+      "ship": "AIDAprima",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "23:00",
+      "timeInPort": "15h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-12",
+      "ship": "Queen Anne",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "overnight/next-day timing"
+    },
+    {
+      "date": "2028-12-01",
+      "ship": "Queen Anne",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-12-12",
+      "ship": "Ambition",
+      "cruiseLine": "Ambassador Cruise Line",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-12-15",
+      "ship": "Queen Victoria",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-12-18",
+      "ship": "Ambience",
+      "cruiseLine": "Ambassador Cruise Line",
+      "arrival": "08:00",
+      "departure": "17:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    }
+  ]
+}

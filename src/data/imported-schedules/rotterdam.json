@@ -1,75 +1,37 @@
 [
   {
-    "date": "2026-07-22",
-    "ship": "Celebrity Apex",
-    "cruiseLine": "Celebrity",
-    "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
-  },
-  {
-    "date": "2026-07-25",
-    "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
-  },
-  {
-    "date": "2026-07-26",
-    "ship": "Rotterdam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "date": "2026-07-09",
+    "ship": "Crystal Serenity",
+    "cruiseLine": "Crystal Cruises",
+    "arrival": "08:00",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-07-28",
     "ship": "Disney Dream",
-    "cruiseLine": "Disney",
-    "arrival": "10:30",
-    "departure": "19:30",
-    "timeInPort": "9h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "Disney Cruise Line",
+    "arrival": "11:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
   },
   {
     "date": "2026-07-30",
     "ship": "AIDAperla",
     "cruiseLine": "AIDA",
     "arrival": "08:00",
-    "departure": "23:00",
-    "timeInPort": "15h",
-    "terminal": "Cruise Terminal Rotterdam"
-  },
-  {
-    "date": "2026-08-02",
-    "ship": "Rotterdam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
   },
   {
     "date": "2026-08-04",
     "ship": "Zuiderdam",
-    "cruiseLine": "Holland America",
+    "cruiseLine": "Holland America Line",
     "arrival": "07:00",
-    "departure": "16:00",
-    "timeInPort": "9h",
-    "terminal": "Cruise Terminal Rotterdam"
-  },
-  {
-    "date": "2026-08-09",
-    "ship": "Rotterdam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-13",
@@ -77,35 +39,26 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "22:00",
-    "timeInPort": "14h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "14h"
   },
   {
     "date": "2026-08-15",
     "ship": "Disney Dream",
-    "cruiseLine": "Disney",
-    "arrival": "10:30",
-    "departure": "21:30",
-    "timeInPort": "11h",
-    "terminal": "Cruise Terminal Rotterdam"
-  },
-  {
-    "date": "2026-08-16",
-    "ship": "Rotterdam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "Disney Cruise Line",
+    "arrival": "11:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-08-22",
     "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
+    "cruiseLine": "Holland America Line",
     "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
   },
   {
     "date": "2026-08-27",
@@ -113,36 +66,35 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "22:00",
-    "timeInPort": "14h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "14h"
   },
   {
     "date": "2026-08-29",
-    "ship": "Liberty of the Seas",
-    "cruiseLine": "Royal Caribbean",
+    "ship": "Liberty Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
     "arrival": "11:00",
     "departure": "23:00",
-    "timeInPort": "12h",
-    "terminal": "Cruise Terminal Rotterdam",
-    "notes": "Maiden call"
+    "callType": "Port of call",
+    "timeInPort": "12h"
   },
   {
     "date": "2026-08-30",
     "ship": "Rotterdam",
-    "cruiseLine": "Holland America",
+    "cruiseLine": "Holland America Line",
     "arrival": "07:00",
     "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "8h"
   },
   {
     "date": "2026-09-03",
     "ship": "Seven Seas Voyager",
-    "cruiseLine": "Regent Seven Seas",
+    "cruiseLine": "Regent Seven Seas Cruises",
     "arrival": "07:00",
     "departure": "16:00",
-    "timeInPort": "9h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "9h"
   },
   {
     "date": "2026-09-10",
@@ -150,45 +102,35 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "22:00",
-    "timeInPort": "14h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "14h"
   },
   {
     "date": "2026-09-11",
     "ship": "Mein Schiff 3",
     "cruiseLine": "TUI Cruises",
     "arrival": "08:00",
-    "departure": "18:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
   },
   {
     "date": "2026-09-12",
     "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
+    "cruiseLine": "Holland America Line",
     "arrival": "07:00",
-    "departure": "02:00",
-    "timeInPort": "19h",
-    "terminal": "Cruise Terminal Rotterdam",
-    "notes": "Overnight"
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
   },
   {
     "date": "2026-09-13",
     "ship": "Rotterdam",
-    "cruiseLine": "Holland America",
+    "cruiseLine": "Holland America Line",
     "arrival": "07:00",
     "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
-  },
-  {
-    "date": "2026-09-19",
-    "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "8h"
   },
   {
     "date": "2026-09-20",
@@ -196,8 +138,8 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "07:00",
     "departure": "18:00",
-    "timeInPort": "11h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "11h"
   },
   {
     "date": "2026-09-24",
@@ -205,71 +147,51 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "22:00",
-    "timeInPort": "14h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "14h"
   },
   {
     "date": "2026-09-27",
     "ship": "Rotterdam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
-  },
-  {
-    "date": "2026-09-28",
-    "ship": "Norwegian Sky",
-    "cruiseLine": "Norwegian",
-    "arrival": "14:00",
-    "departure": "20:00",
-    "timeInPort": "6h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "16:00",
+    "callType": "Port of call"
   },
   {
     "date": "2026-09-29",
     "ship": "Sky Princess",
-    "cruiseLine": "Princess",
+    "cruiseLine": "Princess Cruises",
     "arrival": "08:00",
-    "departure": "21:00",
-    "timeInPort": "13h",
-    "terminal": "Cruise Terminal Rotterdam"
-  },
-  {
-    "date": "2026-10-02",
-    "ship": "AIDAprima",
-    "cruiseLine": "AIDA",
-    "arrival": "17:00",
-    "departure": "23:00",
-    "timeInPort": "6h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
   },
   {
     "date": "2026-10-03",
     "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
+    "cruiseLine": "Holland America Line",
     "arrival": "07:00",
     "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "8h"
   },
   {
     "date": "2026-10-04",
     "ship": "Rotterdam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
     "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-07",
     "ship": "MSC Magnifica",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "11:00",
     "departure": "20:00",
-    "timeInPort": "9h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "9h"
   },
   {
     "date": "2026-10-08",
@@ -277,17 +199,16 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "22:00",
-    "timeInPort": "14h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "14h"
   },
   {
     "date": "2026-10-11",
     "ship": "Queen Anne",
-    "cruiseLine": "Cunard",
-    "arrival": "07:00",
-    "departure": "18:00",
-    "timeInPort": "11h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-12",
@@ -295,44 +216,43 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "22:00",
-    "timeInPort": "14h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "14h"
   },
   {
     "date": "2026-10-14",
     "ship": "Britannia",
-    "cruiseLine": "P&O Cruises",
-    "arrival": "07:00",
-    "departure": "12:00",
-    "timeInPort": "5h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-17",
     "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
+    "cruiseLine": "Holland America Line",
     "arrival": "07:00",
     "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "8h"
   },
   {
     "date": "2026-10-20",
     "ship": "MSC Preziosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
     "departure": "17:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-10-21",
     "ship": "MSC Virtuosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
     "departure": "19:00",
-    "timeInPort": "12h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "12h"
   },
   {
     "date": "2026-10-22",
@@ -340,26 +260,25 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "22:00",
-    "timeInPort": "14h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "14h"
   },
   {
     "date": "2026-10-23",
     "ship": "Arcadia",
-    "cruiseLine": "P&O Cruises",
-    "arrival": "07:00",
-    "departure": "19:00",
-    "timeInPort": "12h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-28",
     "ship": "MSC Preziosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
     "departure": "17:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-10-30",
@@ -367,82 +286,77 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "07:00",
     "departure": "18:00",
-    "timeInPort": "11h",
-    "terminal": "Cruise Terminal Rotterdam",
-    "notes": "Maiden call"
+    "callType": "Port of call",
+    "timeInPort": "11h"
   },
   {
     "date": "2026-10-31",
     "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
+    "cruiseLine": "Holland America Line",
     "arrival": "07:00",
     "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "8h"
   },
   {
     "date": "2026-11-02",
     "ship": "Sky Princess",
-    "cruiseLine": "Princess",
+    "cruiseLine": "Princess Cruises",
     "arrival": "08:00",
     "departure": "19:00",
-    "timeInPort": "11h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "11h"
   },
   {
     "date": "2026-11-03",
     "ship": "AIDAperla",
     "cruiseLine": "AIDA",
     "arrival": "08:00",
-    "departure": "22:00",
-    "timeInPort": "14h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "departure": "23:00",
+    "callType": "Port of call",
+    "timeInPort": "15h"
   },
   {
     "date": "2026-11-04",
     "ship": "Iona",
-    "cruiseLine": "P&O Cruises",
-    "arrival": "06:00",
-    "departure": "18:00",
-    "timeInPort": "12h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-07",
     "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
     "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-08",
     "ship": "Queen Mary 2",
-    "cruiseLine": "Cunard",
-    "arrival": "06:00",
-    "departure": "06:00",
-    "timeInPort": "24h",
-    "terminal": "Cruise Terminal Rotterdam",
-    "notes": "Overnight"
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-11",
     "ship": "MSC Preziosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
     "departure": "17:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-11-18",
     "ship": "MSC Preziosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
     "departure": "17:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-11-19",
@@ -450,53 +364,51 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "21:00",
-    "timeInPort": "13h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "13h"
   },
   {
     "date": "2026-11-21",
     "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
     "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-25",
     "ship": "MSC Preziosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
     "departure": "17:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-11-27",
     "ship": "Queen Anne",
-    "cruiseLine": "Cunard",
-    "arrival": "09:00",
-    "departure": "12:00",
-    "timeInPort": "3h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-30",
     "ship": "Ambition",
-    "cruiseLine": "Ambassador",
+    "cruiseLine": "Ambassador Cruise Line",
     "arrival": "08:00",
     "departure": "18:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-12-01",
     "ship": "MSC Preziosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
     "departure": "17:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-12-03",
@@ -504,53 +416,49 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "21:00",
-    "timeInPort": "13h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "13h"
   },
   {
     "date": "2026-12-05",
     "ship": "Nieuw Statendam",
-    "cruiseLine": "Holland America",
-    "arrival": "07:00",
-    "departure": "15:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "17:00",
+    "callType": "Port of call"
   },
   {
     "date": "2026-12-08",
     "ship": "MSC Preziosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
     "departure": "17:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-12-09",
     "ship": "Queen Mary 2",
-    "cruiseLine": "Cunard",
-    "arrival": "07:00",
-    "departure": "23:55",
-    "timeInPort": "16h 55m",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-12-12",
     "ship": "Aurora",
-    "cruiseLine": "P&O Cruises",
-    "arrival": "15:00",
-    "departure": "19:00",
-    "timeInPort": "4h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-12-15",
     "ship": "Queen Anne",
-    "cruiseLine": "Cunard",
-    "arrival": "09:00",
-    "departure": "17:00",
-    "timeInPort": "8h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
   },
   {
     "date": "2026-12-17",
@@ -558,53 +466,1160 @@
     "cruiseLine": "AIDA",
     "arrival": "08:00",
     "departure": "21:00",
-    "timeInPort": "13h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "13h"
   },
   {
     "date": "2026-12-20",
     "ship": "Ambition",
-    "cruiseLine": "Ambassador",
+    "cruiseLine": "Ambassador Cruise Line",
     "arrival": "08:00",
     "departure": "18:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-12-21",
     "ship": "Mein Schiff Flow",
     "cruiseLine": "TUI Cruises",
     "arrival": "07:00",
-    "departure": "18:00",
-    "timeInPort": "11h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
   },
   {
     "date": "2026-12-23",
     "ship": "MSC Preziosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
-    "departure": "17:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "departure": "16:30",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
   },
   {
     "date": "2026-12-29",
     "ship": "MSC Preziosa",
-    "cruiseLine": "MSC",
+    "cruiseLine": "MSC Cruises",
     "arrival": "07:00",
     "departure": "17:00",
-    "timeInPort": "10h",
-    "terminal": "Cruise Terminal Rotterdam"
+    "callType": "Port of call",
+    "timeInPort": "10h"
   },
   {
     "date": "2026-12-31",
     "ship": "AIDAnova",
     "cruiseLine": "AIDA",
     "arrival": "08:00",
-    "departure": "06:00",
-    "timeInPort": "22h",
-    "terminal": "Cruise Terminal Rotterdam",
-    "notes": "Overnight"
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-01-06",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-01-07",
+    "ship": "Queen Anne",
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-01-13",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-01-14",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-01-20",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-01-27",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-01-28",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-02-03",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-02-09",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-02-10",
+    "ship": "Iona",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-02-11",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-02-14",
+    "ship": "Iona",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-02-16",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-02-18",
+    "ship": "Queen Elizabeth",
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-02-21",
+    "ship": "Iona",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-02-23",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-02-25",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-03-03",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-03-10",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-03-11",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-03-17",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-03-24",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-03-25",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-03-27",
+    "ship": "Queen Mary 2",
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-03-30",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-03-31",
+    "ship": "Iona",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-04-07",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-04-08",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-04-11",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-04-14",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-04-17",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-04-18",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-04-21",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-04-23",
+    "ship": "Aurora",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-04-25",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-04-26",
+    "ship": "Volendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "11:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-04-28",
+    "ship": "Bolette",
+    "cruiseLine": "Fred Olsen Cruise Lines",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-05-01",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-05-02",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-05-08",
+    "ship": "Mein Schiff 2",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-05-09",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-05-11",
+    "ship": "Norwegian Star",
+    "cruiseLine": "Norwegian Cruise Line",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-05-15",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-05-16",
+    "ship": "Mein Schiff 3",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-05-17",
+    "ship": "Regal Princess",
+    "cruiseLine": "Princess Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-05-18",
+    "ship": "Silver Spirit",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2027-05-21",
+    "ship": "Oceania Marina",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "11:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-05-22",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "09:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-05-23",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-05-29",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-05-30",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-06-03",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-06-06",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-06-06",
+    "ship": "SeaDream I",
+    "cruiseLine": "SeaDream Yacht Club",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-06-07",
+    "ship": "Freedom Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "10:30",
+    "departure": "20:30",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-06-12",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-06-17",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-06-20",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-06-22",
+    "ship": "Aurora",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-06-24",
+    "ship": "Freedom Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "10:30",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2027-06-26",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-06-27",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-07-01",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-07-04",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-07-10",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-07-11",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-07-15",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-07-25",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-07-28",
+    "ship": "Ambience",
+    "cruiseLine": "Ambassador Cruise Line",
+    "arrival": "08:00",
+    "departure": "23:59",
+    "callType": "Port of call",
+    "timeInPort": "15h 59m"
+  },
+  {
+    "date": "2027-07-29",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-08-01",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-08-03",
+    "ship": "Volendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-08-07",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-08-08",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-08-12",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-08-15",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-08-21",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-08-23",
+    "ship": "Freedom Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "10:30",
+    "departure": "20:30",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-08-26",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-08-28",
+    "ship": "Disney Wish",
+    "cruiseLine": "Disney Cruise Line",
+    "arrival": "11:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-08-29",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-08-30",
+    "ship": "Arcadia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-09-09",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-09-11",
+    "ship": "Disney Wish",
+    "cruiseLine": "Disney Cruise Line",
+    "arrival": "11:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-09-12",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-09-14",
+    "ship": "Aurora",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-09-16",
+    "ship": "Costa Favolosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-09-19",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-09-23",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-09-24",
+    "ship": "Majestic Princess",
+    "cruiseLine": "Princess Cruises",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-09-26",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-09-27",
+    "ship": "AIDAprima",
+    "cruiseLine": "AIDA",
+    "arrival": "17:00",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-10-02",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-10-03",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-10-07",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-10-13",
+    "ship": "AIDAprima",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-10-14",
+    "ship": "Majestic Princess",
+    "cruiseLine": "Princess Cruises",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-10-16",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-10-17",
+    "ship": "Rotterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-10-18",
+    "ship": "Iona",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-10-21",
+    "ship": "AIDAperla",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-10-26",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "10:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-10-27",
+    "ship": "AIDAprima",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-10-28",
+    "ship": "Queen Mary 2",
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-10-30",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-11-03",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-11-06",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-11-10",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-11-14",
+    "ship": "Queen Anne",
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-11-17",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "10:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-11-18",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-11-20",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "",
+    "departure": "15:00",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-11-24",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-11-30",
+    "ship": "Queen Anne",
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-12-02",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-12-04",
+    "ship": "Ambition",
+    "cruiseLine": "Ambassador Cruise Line",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-12-05",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-12-08",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-12-10",
+    "ship": "Ambition",
+    "cruiseLine": "Ambassador Cruise Line",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-12-11",
+    "ship": "Queen Mary 2",
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-12-15",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-12-16",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-12-18",
+    "ship": "Nieuw Statendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "07:00",
+    "departure": "15:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-12-19",
+    "ship": "Queen Anne",
+    "cruiseLine": "Cunard Line",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-12-22",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-12-25",
+    "ship": "AIDAnova",
+    "cruiseLine": "AIDA",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-12-29",
+    "ship": "MSC Preziosa",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
   }
 ]
